@@ -31,5 +31,8 @@
     "react-native-svg": "15.12.1",
     "react-native-web": "^0.21.0",
     "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^15.0.1"
   }
 }
